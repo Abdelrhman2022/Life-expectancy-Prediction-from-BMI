@@ -1,6 +1,6 @@
 # Life expectancy Prediction from BMI
 Explore and run machine learning code with data on the average life expectancy at birth and the average BMI for males across the world. The data comes from 
-<a herf= 'https://www.gapminder.org/'> Gapminder </a>
+<a herf= ''>  </a> [Gapminder](https://www.gapminder.org/)
 
 # Dataset
 The data file can be found under the "bmi_and_life_expectancy.csv". It includes three columns, containing the following data:
