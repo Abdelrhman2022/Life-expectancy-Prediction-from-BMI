@@ -22,4 +22,5 @@ Fit the model to the data.
 
 # Predict using the model
 
-Predict using a BMI of 21.07931 and assign it to the variable laos_life_exp.
+Predict using a BMI of 20.0123 and assign it to the variable laos_life_exp.
+Result: Your life expectancy guess for Laos was 57.62840441791824
